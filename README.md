@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay8143&show_icons=true&theme=radical)
 
 
 <!--
