@@ -22,6 +22,17 @@
 ## 📊 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay8143&show_icons=true&theme=radical)
 
+---
+
+## 📘 Projects
+
+### 🔍 Exploratory Data Analysis: Iris Dataset
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vijay8143/Colab-Conquer/blob/main/iris_eda.ipynb)
+
+Perform basic EDA using pandas and matplotlib on the Iris dataset. View the full notebook in Colab using the badge above.
+
+---
 
 <!--
 **Vijay8143/Vijay8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
