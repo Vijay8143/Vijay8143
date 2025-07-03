@@ -1,50 +1,57 @@
-# 👋 Hi, I'm Vijay Reddy Goli
+# About Me
 
-🚀 I'm currently working on: [Meal Link](https://github.com/Vijay8143/Meal-Link)
+Hey! I'm Vijay Reddy Goli, a passionate MERN stack developer specializing in building interactive web applications with engaging animations using Framer Motion. I believe in continuous learning through hands-on development and solving real-world problems with code.
 
-🧠 Learning: Tailwind CSS, React, and Full Stack Development
+## What I Do
+- Develop full-stack applications using the MERN stack
+- Implement smooth animations and micro-interactions with Framer Motion
+- Build responsive, user-friendly interfaces with React and Tailwind CSS
+- Focus on writing clean, maintainable code with proper architecture
+- Constantly explore new technologies to enhance my skillset
 
-🌱 Passionate about web development, AI integration, and building practical tools
+## My Development Principles
+- **Learning Through Building**: I grow fastest when working on real projects
+- **Details Matter**: Care about performance, accessibility, and UX
+- **Progress Over Perfection**: Ship, get feedback, then improve
+- **Stay Curious**: Always exploring new tools and techniques
+- **Collaborative Mindset**: Believe in sharing knowledge and learning from others
 
-📫 Reach me: vijayreddygoli630@gmail.com
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayreddygoli630@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay8143)
 
----
+## 💻 Tech Stack
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🔧 My Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
----
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay8143&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijay8143&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay8143&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vijay8143&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-## 📘 Projects
-
-### 🔍 Exploratory Data Analysis: Iris Dataset
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vijay8143/Colab-Conquer/blob/main/iris_eda.ipynb)
-
-Perform basic EDA using pandas and matplotlib on the Iris dataset. View the full notebook in Colab using the badge above.
-
----
-
-<!--
-**Vijay8143/Vijay8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vijay8143&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
