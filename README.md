@@ -49,9 +49,5 @@ Hey! I'm Vijay Reddy Goli, a passionate MERN stack developer specializing in bui
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay8143&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vijay8143&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🏆 GitHub Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vijay8143&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
